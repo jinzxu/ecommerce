@@ -1,6 +1,6 @@
 import { Container } from 'react-bootstrap'
 import Header from './components/Header'
-import Footer from './components/Footer' // test github
+import Footer from './components/Footer' // test github2
 function App() {
   return (
     <div>
